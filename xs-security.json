@@ -1,0 +1,12 @@
+{
+  "oauth2-configuration": {
+    "token-validity": 86400,
+    "refresh-token-validity": 2592000,
+    "redirect-uris": [
+      "https://risk-management-approuter/**"
+    ]
+  },
+  "scopes": [],
+  "attributes": [],
+  "role-templates": []
+}
