@@ -23,7 +23,7 @@ mta_archives/
 *.orig
 *.log
 .env
-
+.gitignore
 *.iml
 *.flattened-pom.xml
 
